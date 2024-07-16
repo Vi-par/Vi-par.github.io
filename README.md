@@ -7,11 +7,11 @@ subtitle: "Student at University of Nottingham"
 
 ## 👩‍💻 About me:
 
-###👩‍🎓 Education:
+### 👩‍🎓 Education:
 CertHE in Economics from Queen Mary's University of London
 BSc in Economics and Econometrics from University of Nottingham (in progress)
 
-###📚 Currently learning:
+### 📚 Currently learning:
 
 
-##📞 Contact:
+## 📞 Contact:
